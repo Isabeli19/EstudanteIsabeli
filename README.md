@@ -1,6 +1,10 @@
-<div class="passo ativo" id="passo-0">
-        <img src="cenario-passo0.png" alt="">
-        <p>Um dia desses, dentro de um livro da biblioteca da escola, descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade e eu decidi segui-las!</p>
-        <button class="btn-proximo" data-proximo="1">Rio de Janeiro</button>
-        <button class="btn-proximo" data-proximo="2">Pernambuco</button>
-</div>
+<section class="container secundario">
+        <div class="container__descricao">
+            <p class="descricao__texto">
+                Só o Combo+ oferece Alura+ e Alura Língua juntos para você ter acesso a cursos de diversas áreas da
+                tecnologia e aprender inglês ou espanhol, onde e como quiser.
+            </p>
+            <a href="www.alura.com.br" class="container__botao secundario__botao" container>Assine o Combo+</a>
+        </div>
+        <img src="img/Telas.png" alt="Tela do alura+ e alura língua" class="secundario__imagem">
+    </section>
